@@ -5,8 +5,20 @@
 [![Zero-Dependency](https://img.shields.io/badge/dependencies-Pure%20NumPy-orange.svg)](pyproject.toml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Parity: scikit-learn](https://img.shields.io/badge/parity-scikit--learn%20verified-success.svg)](tests/test_parity.py)
+[![Built with: Gemini Flash](https://img.shields.io/badge/AI%20Collaboration-Gemini%20Flash-8A2BE2.svg)](#about-this-project--ai-collaboration)
 
 > **Zero-dependency, production-grade reference implementations of foundational machine learning algorithms written in pure, vectorized NumPy—accompanied by LaTeX mathematical derivations and verified against `scikit-learn` via strict numerical parity testing.**
+
+---
+
+## About This Project & AI Collaboration
+
+This repository is part of a focused open-source learning and portfolio initiative created with the assistance of **Gemini Flash (Antigravity)**.
+
+The objectives of this project are:
+* **Practicing & Refining Software Craftsmanship**: Writing robust, typed, and modular Python code adhering to standard library conventions (PEP 8, Ruff, Scikit-Learn API design) without high-level shortcuts.
+* **Deeply Revising Methodologies & Foundations**: Re-deriving and translating mathematical concepts—such as numerical optimization, tree impurity mechanics, functional gradient boosting, and reverse-mode automatic differentiation—into working vector math from first principles.
+* **Exploring AI-Assisted Engineering**: Evaluating and benchmarking modern agentic AI workflows (specifically **Gemini Flash**) for architectural scaffolding, LaTeX derivation authoring, and automated numerical parity testing.
 
 ---
 
